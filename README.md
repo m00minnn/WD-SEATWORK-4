@@ -18,6 +18,11 @@
 
 ---
 
+## Deployment
+
+View the live project here: [Seatwork 4 Deployment Link](https://your-deployment-link-here.com)
+
+---
 <br />
 <br />
 
@@ -48,20 +53,20 @@
 
 ## Overview
 
-The Features Display Website is a project created for Seatwork 4, showcasing distinct design layouts for different features using pure HTML and CSS. This multi-page website demonstrates proficiency in front-end web development by presenting unique and visually appealing layouts for various features.
+The Features Display Website is created for Seatwork 4, showcasing distinct design layouts for different features using pure HTML and CSS. This multi-page website demonstrates proficiency in front-end web development by presenting unique and visually appealing layouts for various features.
 
 Guiding Questions:
-- What is the project? A multi-page website showcasing different feature layouts.
-- What's the purpose? To demonstrate HTML and CSS skills through creative and distinct layouts.
-- What are key components? Landing page, feature pages, and intuitive navigation.
-- What technology is used and how? HTML for structure, CSS for styling and layout design.
+- What is the project? - `A multi-page website showcasing different feature layouts.`
+- What's the purpose? - `To demonstrate HTML and CSS skills through creative and distinct layouts.`
+- What are key components? - `Landing page, feature pages, and intuitive navigation.`
+- What technology is used and how? - `HTML for structure, CSS for styling and layout design.`
 
 ### Key Components
 - Multi-Page Website
 - Landing Page with Navigation
 - At least 2 Feature Pages with Distinct Layouts
 - Responsive Design
-- CSS Animations (optional)
+- CSS Animations
 
 ### Technology
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,7 +84,7 @@ Guiding Questions:
 7. File Structure to follow below.
 
 ```
-WD-Seatwork-4
+WD-SEATWORK-4
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -88,7 +93,16 @@ WD-Seatwork-4
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ features-page-1
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|   └─ features-page-2
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -103,9 +117,12 @@ WD-Seatwork-4
 ## Resources
 
 | Title | Purpose | Link |
-|-|-|-|
-| MDN Web Docs | Comprehensive web development documentation | https://developer.mozilla.org/ |
-| CSS-Tricks | CSS tutorials and techniques | https://css-tricks.com/ |
-| GitHub Pages | Website hosting and deployment | https://pages.github.com/ |
-| Font Awesome | Icon library  | https://fontawesome.com/ |
-| Google Fonts | Web font library  | https://fonts.google.com/ |
+|-------|---------|------|
+| MDN Web Docs | Comprehensive web development documentation | https://developer.mozilla.org |
+| CSS-Tricks | CSS tutorials and techniques | https://css-tricks.com |
+| GitHub Pages | Used for website hosting and deployment | https://pages.github.com |
+| Bootstrap | Responsive, mobile-first front-end framework | https://getbootstrap.com |
+| Font Awesome | Icon library used for adding small icons as detail| https://fontawesome.com |
+| Google Fonts | Web font library used for fetching a font used in the website | https://fonts.google.com |
+| Placehold | Used as placeholder for designs with images included | https://placehold.co |
+
