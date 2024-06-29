@@ -20,7 +20,7 @@
 
 ## Deployment
 
-View the live project here: [Seatwork 4 Deployment Link](https://your-deployment-link-here.com)
+View the live project here: [Seatwork 4 Deployment Link](https://m00minnn.github.io/WD-SEATWORK-4/)
 
 ---
 <br />
