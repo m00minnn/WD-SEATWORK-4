@@ -72,7 +72,7 @@ nav {
 }
 
 .hero {
-    background: linear-gradient(rgba(15, 25, 35, 0.8), rgba(15, 25, 35, 0.8)), url('/assets/img/val-group-background.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(15, 25, 35, 0.8), rgba(15, 25, 35, 0.8)), url("/./assets/img/val-group-background.jpg") no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
