@@ -22,6 +22,7 @@
 
 View the live project here: [Seatwork 4 Deployment Link](https://m00minnn.github.io/WD-SEATWORK-4/)
 
+View the wakatime integration here: [Wakatime](https://wakatime.com/@1e323d0b-6dc3-4e06-b617-51340e36f303/projects/sekfdjkpgo?start=2024-07-22&end=2024-07-28)
 ---
 <br />
 <br />
